@@ -39,7 +39,7 @@ Below are some screenshots showcasing the main features and pages of IT Courses 
 
 <img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: auto;">
 
-<img src="courses/Home.png" alt="Home Page" style="width: 400px; height: auto;">
+<img src="images/courses.png" alt="Home Page" style="width: 400px; height: auto;">
 
 
 ![Home Page](images/Home.png)
