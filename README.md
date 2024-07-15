@@ -34,6 +34,10 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 - **MYSQL:** manages data storage, retrieval, and management for IT courses, ensuring efficient handling of all database operations.
 -  **PHP:** Handling tasks like user authentication and content generation, and facilitating interactions with MySQL for data management.
 
+## Website Screenshots 
+
+<img src=".png" alt="Home Page" style="width: 600px; height: auto;">
+
 
 
 
