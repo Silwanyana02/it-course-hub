@@ -36,7 +36,7 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 
 ## Website Screenshots 
 
-<img src=".png" alt="Home Page" style="width: 600px; height: auto;">
+<img src="Home.png" alt="Home Page" style="width: 600px; height: auto;">
 
 
 
