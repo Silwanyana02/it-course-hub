@@ -54,6 +54,10 @@ Below are some screenshots showcasing the main features and pages of IT Courses 
 The About Page on IT Courses Hub provides detailed information about the platform's mission, vision, and values. It aims to give users insight into the background of the website, its founders, and the motivation behind creating a centralized hub for IT learning courses. Typically, this page includes:
 </li></ul>
 
+<h2> Contact page </h2>
+
+
+The Contact Page aims to facilitate inquiries, feedback, and support requests, ensuring users have a reliable means to reach out for assistance or collaboration opportunities.It also includes a map integration showing a location of the organization, enhancing accessibility
 
 ![Home Page](images/Home.png)
 
