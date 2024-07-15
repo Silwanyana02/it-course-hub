@@ -8,9 +8,10 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Deployment](#setup-and-deployment)
 - [Websites Screenshots](#website-screenshots)
 
+- [Deployment](#deployment)
+- 
 ## About
 -The primary objective of creating IT Courses Hub is to provide a centralized platform that simplifies the process of finding and accessing high-quality IT learning courses, helping users easily discover and compare courses from renowned providers like Coursera and Cisco through a user-friendly interface with search and filter options, while promoting lifelong learning and supporting individuals at various career stages with diverse resources.
 
@@ -60,4 +61,8 @@ The About Page on IT Courses Hub provides detailed information about the platfor
 <img src="images/map.png" alt="contactmap" style="width: 400px; height: auto;">
 
 <ul><li>The <u>Contact</u> Page aims to facilitate inquiries, feedback, and support requests, ensuring users have a reliable means to reach out for assistance or collaboration opportunities.It also includes a map integration showing a location of the organization, enhancing accessibility.</li></ul>
+
+<h2>Deployment </h2>
+<ul><li>  IT Courses Hub is successfully deployed on 000webhost, ensuring both accessibility and security measures are in place for optimal performance and user experience.
+</li></ul>
 
