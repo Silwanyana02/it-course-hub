@@ -42,9 +42,12 @@ Below are some screenshots showcasing the main features and pages of IT Courses 
 
 <img src="images/courses.png" alt="Home Page" style="width: 400px; height: auto;">
 
-The Home Page serves as the main entry point for visitors to IT Courses Hub. It features a welcoming message that provides an overview of the website's purpose: to offer a centralized platform for accessing a variety of IT learning courses. The navigation menu simplifies browsing with links to essential sections like Courses, About, and Contact. Highlighted courses showcase selected offerings, while a search bar allows users to quickly find specific courses of interest
+<ul><li>The Home Page serves as the main entry point for visitors to IT Courses Hub. It features a welcoming message that provides an overview of the website's purpose: to offer a centralized platform for accessing a variety of IT learning courses. The navigation menu simplifies browsing with links to essential sections like Courses, About, and Contact. Highlighted courses showcase selected offerings, while a search bar allows users to quickly find specific courses of interest</li></ul>
 
 <h2>About page</h2>
+<ul><li>
+The About Page on IT Courses Hub provides detailed information about the platform's mission, vision, and values. It aims to give users insight into the background of the website, its founders, and the motivation behind creating a centralized hub for IT learning courses. Typically, this page includes:
+</li></ul>
 
 
 ![Home Page](images/Home.png)
