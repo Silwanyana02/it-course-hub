@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="styles.css">
+       <!-- Font Awesome CDN for icons -->
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body class="contact-page"> <!-- Add the contact-page class to the body -->
+    <header>
+        <nav>
+            <ul>
+               <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        </header>
+        <div class="head">
+          <h2>Get in touch with us</h2></div>
+
+          <div class="container">
+            <div class="form-container">
+              <div class="left-container">
+                <div class="left-inner-container">
+                  <h2>Let's Chat</h2>
+                  <p>Whether you have a question, want to start a project or simply want to connect.</p>
+                  <br>
+                  <p>Feel free to send me a message in the contact form</p>
+                  <div class="email-container">
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:ntamnanimawande@gmail.com">ntamnanimawande@gmail.com</a>
+                </div> 
+                </div>  
+              </div>  
+              <div class="right-container">
+                <div class="right-inner-container">
+                  <form action="database_form.php" method="post"  id="contactForm">
+                    <h2 class="lg-view"></h2>
+                    <h2 class="sm-view">Let's Chat</h2>
+                    <p>* Required</p>
+                    <div id="errorMessages" class="error-messages"></div>
+                    <input type="text" id="firstName" name="firstname"  placeholder="First Name *" />
+                    <input type="text" id="lastName" name="lastname" placeholder="Last Name *" />
+                    <input type="email" id="email" name="email" placeholder="Email *" />
+                    <input type="tel" id="phone" name="phone" placeholder="Phone *" />
+                    <textarea id="messages" rows="4" name="messages" placeholder="Message *"></textarea>
+                    <button type="submit" name="submit_button">Submit</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <!-- Google Map Embed -->
+        <div class="map-container">
+          <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11050.272845542215!2d27.
+              6867280143814!3d-26.183261759835612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1e94afed69a7981b%3A0x7b3
+              6b11f1b3a5d8e!2sRandfontein%2C%201756%2C%20South%20Africa!5e0!3m2!1sen!2sus!4v1621439632562!5m2!1sen!2sus" 
+              width="600" 
+              height="450" 
+              style="border:0;" 
+              allowfullscreen="" 
+              loading="lazy">
+          </iframe>
+      </div>
+
+          
+  <script src="script.js"></script>
+            
+
+
+  <footer>
+    <div class="social-links">
+        <a href="" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100095451813162" target="_blank"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://www.linkedin.com/in/mawande18" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+        <a href="https://github.com/silwanyana02" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="" target="_blank" class="x"><i class="fab fa-twitter"></i></a>
+    </div>
+    <p> Developed by Mawande Silwanyana | &copy;2024 IT Learning Courses. All rights reserved.</p>
+    
+</footer>
+
+</body>
+</html>
