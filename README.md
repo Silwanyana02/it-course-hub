@@ -37,7 +37,7 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 ## Website Screenshots 
 Below are some screenshots showcasing the main features and pages of IT Courses Hub. These images provide a visual overview of the user interface and functionality of the website.
 
-<img src="images/Home.jpg" alt="Home Page" style="width: 600px; height: auto;">
+<img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: auto;">
 
 
 ![Home Page](images/Home.png)
