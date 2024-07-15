@@ -11,7 +11,7 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 - [Setup and Deployment](#setup-and-deployment)
 - [Contact](#contact)
 
-  # About IT Courses Hub
+# About IT Courses Hub
 -The primary objective of creating IT Courses Hub is to provide a centralized platform that simplifies the process of finding and accessing high-quality IT learning courses, helping users easily discover and compare courses from renowned providers like Coursera and Cisco through a user-friendly interface with search and filter options, while promoting lifelong learning and supporting individuals at various career stages with diverse resources.
 
 ## Features
