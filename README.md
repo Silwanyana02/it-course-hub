@@ -57,7 +57,7 @@ The About Page on IT Courses Hub provides detailed information about the platfor
 <h2> Contact page </h2>
 
 <img src="images/form.jpg" alt="contactform" style="width: 400px; height: auto;">
-<img src="images/map.jpg" alt="contactmap" style="width: 400px; height: auto;">
+<img src="images/map.png" alt="contactmap" style="width: 400px; height: auto;">
 
 <ul><li>The <u>Contact</u> Page aims to facilitate inquiries, feedback, and support requests, ensuring users have a reliable means to reach out for assistance or collaboration opportunities.It also includes a map integration showing a location of the organization, enhancing accessibility.</li></ul>
 
