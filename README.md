@@ -37,12 +37,14 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 ## Website Screenshots 
 Below are some screenshots showcasing the main features and pages of IT Courses Hub. These images provide a visual overview of the user interface and functionality of the website.
 
-<h1>Homepage</h1>
+<h2>Homepage</h2>
 <img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: auto;">
 
 <img src="images/courses.png" alt="Home Page" style="width: 400px; height: auto;">
 
 The Home Page serves as the main entry point for visitors to IT Courses Hub. It features a welcoming message that provides an overview of the website's purpose: to offer a centralized platform for accessing a variety of IT learning courses. The navigation menu simplifies browsing with links to essential sections like Courses, About, and Contact. Highlighted courses showcase selected offerings, while a search bar allows users to quickly find specific courses of interest
+
+<h2>About page</h2>
 
 
 ![Home Page](images/Home.png)
