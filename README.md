@@ -40,6 +40,7 @@ Below are some screenshots showcasing the main features and pages of IT Courses 
 <img src="it-course-hub/images/Home.png" alt="Home Page" style="width: 600px; height: auto;">
 
 
+![Home Page](images/Home.png)
 
 
 
