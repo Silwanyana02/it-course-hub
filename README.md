@@ -35,6 +35,7 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 -  **PHP:** Handling tasks like user authentication and content generation, and facilitating interactions with MySQL for data management.
 
 ## Website Screenshots 
+Below are some screenshots showcasing the main features and pages of IT Courses Hub. These images provide a visual overview of the user interface and functionality of the website.
 
 <img src="Home.png" alt="Home Page" style="width: 600px; height: auto;">
 
