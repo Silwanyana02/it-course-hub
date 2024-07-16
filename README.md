@@ -38,7 +38,7 @@ You can visit the website [here](https://itcoursehub.000webhostapp.com/).
 Below are some screenshots showcasing the main features and pages of IT Courses Hub. These images provide a visual overview of the user interface and functionality of the website.
 
 <h2>Homepage</h2>
-<img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: auto;">
+<img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: 400px;">
 
 <img src="images/courses.png" alt="Home Page" style="width: 400px; height: auto;">
 
