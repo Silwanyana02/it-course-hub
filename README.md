@@ -40,15 +40,15 @@ Below are some screenshots showcasing the main features and pages of IT Courses 
 <h2>Homepage</h2>
 <img src="images/Home.jpg" alt="Home Page" style="width: 400px; height: 400px;">
 
-<img src="images/courses.png" alt="Home Page" style="width: 400px; height: auto;">
+<img src="images/courses.png" alt="Home Page" style="width: 400px; height: 400px;">
 
 <ul><li>The Home Page serves as the main entry point for visitors to IT Courses Hub. It features a welcoming message that provides an overview of the website's purpose: to offer a centralized platform for accessing a variety of IT learning courses. The navigation menu simplifies browsing with links to essential sections like Courses, About, and Contact. Highlighted courses showcase selected offerings, while a search bar allows users to quickly find specific courses of interest.</li></ul>
 
 
 <h2>About page</h2>
-<img src="images/about.jpg" alt="Home Page" style="width: 400px; height: auto;">
+<img src="images/about.jpg" alt="Home Page" style="width: 400px; height: 400px;">
 
-<img src="images/about_me.jpg" alt="Home Page" style="width: 400px; height: auto;">
+<img src="images/about_me.jpg" alt="Home Page" style="width: 400px; height: 400px;">
 
 <ul><li>
 The About Page on IT Courses Hub provides detailed information about the platform's mission, vision, and values. It aims to give users insight into the background of the website, its founders, and the motivation behind creating a centralized hub for IT learning courses.
@@ -56,8 +56,8 @@ The About Page on IT Courses Hub provides detailed information about the platfor
 
 <h2> Contact page </h2>
 
-<img src="images/form.jpg" alt="contactform" style="width: 400px; height: auto;">
-<img src="images/map.png" alt="contactmap" style="width: 400px; height: auto;">
+<img src="images/form.jpg" alt="contactform" style="width: 400px; height: 400px;">
+<img src="images/map.png" alt="contactmap" style="width: 400px; height: 400px;">
 
 <ul><li>The <u>Contact</u> Page aims to facilitate inquiries, feedback, and support requests, ensuring users have a reliable means to reach out for assistance or collaboration opportunities.It also includes a map integration showing a location of the organization, enhancing accessibility.</li></ul>
 
